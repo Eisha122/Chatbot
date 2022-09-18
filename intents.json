@@ -89,11 +89,6 @@
   "responses": ["There are two semesters in a year."]
   },
 
-  {"tag": "semDuration",
-  "patterns": ["how many months are there in a semester","how long will be a single semester"],
-  "responses": ["The single semester will be around 6 months."]
-  },
-
   {"tag": "classes",
   "patterns": ["how many classes will be there in a day","how long are the classes?"],
   "responses": ["There may be four or six classes per day. Each class will be of 1 hour"]
